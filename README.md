@@ -33,3 +33,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/odeleonmendes)
 
 Apaixonado por tecnologia, educação e ajudar pessoas através da programção.
+
+
+<!--Sites para Badges https://emojipedia.org/ https://dev.to/envoy_/150-badges-for-github-pnk https://dev.to/envoy_/150-badges-for-github-pnk-->

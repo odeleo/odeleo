@@ -35,4 +35,4 @@
 Apaixonado por tecnologia, educação e ajudar pessoas através da programção.
 
 
-<!--Sites para Badges https://emojipedia.org/ https://dev.to/envoy_/150-badges-for-github-pnk https://dev.to/envoy_/150-badges-for-github-pnk-->
+<!--Sites para Badges https://emojipedia.org/ https://dev.to/envoy_/150-badges-for-github-pnk https://devicon.dev/-->
